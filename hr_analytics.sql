@@ -1,4 +1,4 @@
-   USE clg;
+  # SELECT All Data FROM Table..................
 SELECT*FROM hr_analytics;
 
 
@@ -66,5 +66,10 @@ WHERE e1.department=e2.department
  FROM hr_analytics
  GROUP BY department,jobrole
  ORDER BY avg_job_satisfaction DESC;
+   
+
+
+        
+
  
  
