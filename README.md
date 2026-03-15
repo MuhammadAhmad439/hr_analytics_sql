@@ -1,6 +1,6 @@
-**# hr_analytics_sql**
+** hr_analytics_sql**
 
-**## Project Overview**
+** Project Overview**
 
 In this project, I analyzed an HR employee dataset using **SQL queries**, while the data itself was stored in **Excel**. The main purpose of this project is to understand employee-related patterns such as **attrition trends, salary distribution, department structure, job roles, and employee satisfaction**.
 
