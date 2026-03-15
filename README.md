@@ -98,3 +98,4 @@ This project demonstrates how **SQL can be used to analyze real-world HR dataset
 
 It also serves as a **portfolio project for aspiring data analysts**, showcasing SQL querying skills, analytical thinking, and the ability to derive insights from HR data.
 
+**Project by M.Ahmad Zulfiqar**
