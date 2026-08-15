@@ -1,4 +1,4 @@
-** hr_analytics_sql**
+ hr_analytics_sql
 
 ** Project Overview**
 
@@ -26,29 +26,28 @@ Some of the important columns in the dataset include:
 * **NumCompaniesWorked** – number of companies the employee worked at previously
 
 
-**# Project Workflow**
-
-### 1. Data Collection
+** Project Workflow**
+1. Data Collection
 
 The HR employee data is stored in an **Excel file**, which acts as the main dataset for this project.
 
-### 2. Data Import
+ 2. Data Import
 
 The Excel dataset was imported into a **SQL database**, and a table called **hr_analytics** was created to store the data.
 
-### 3. Data Exploration
+ 3. Data Exploration
 
 Basic SQL queries were written to explore the dataset and understand the structure of the data.
 
-### 4. Data Analysis
+ 4. Data Analysis
 
 Multiple SQL queries were used to analyze the dataset and answer important HR-related questions such as employee distribution, attrition trends, and salary analysis.
 
-### 5. Insight Generation
+ 5. Insight Generation
 
 The results from SQL queries helped identify patterns in employee behavior and organizational structure.
 
-**# SQL Concepts Used**
+** SQL Concepts Used**
 
 While working on this project, several SQL concepts were practiced:
 
@@ -61,7 +60,7 @@ While working on this project, several SQL concepts were practiced:
 * **ORDER BY** to sort and identify top or bottom results
 
 **
-# Analysis Performed**
+ Analysis Performed**
 
 During the project, several HR-related analyses were performed, including:
 
@@ -76,7 +75,7 @@ During the project, several HR-related analyses were performed, including:
 * Analyzing **job satisfaction and work environment satisfaction**
 
 
-# Skills Demonstrated
+ Skills Demonstrated
 
 This project helped demonstrate and practice the following skills:
 
@@ -88,7 +87,7 @@ This project helped demonstrate and practice the following skills:
 * Extracting insights from structured datasets
 
 
-# Conclusion
+Conclusion
 
 In this project, I used SQL to analyze an HR dataset that was stored in Excel. The main goal was to explore employee data and understand patterns related to attrition, salaries, departments, and job satisfaction.
 
